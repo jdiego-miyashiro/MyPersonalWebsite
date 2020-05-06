@@ -26,14 +26,28 @@ body{
   margin-right:20%;
 }
 .AboutMe{
-  height:1000px
+
+  height:1000px;
+  margin: 0 auto;
+}
+.ProfilePicture{
+  background-image: url(Images/ProfilePictureCropped.jpg);
+  margin: 25px auto;
+  width: 300px;
+  border-radius: 300px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  text-align: center;
+  border: 8px solid;
+  border-color:#DDDDDD;
+
 }
 .Level1SubHeader{
   text-align: center;
   color: #30475e;
   font-family: 'Quicksand';
   font-size: 400%;
-  margin-top: 5%;
+  margin-top: 2%;
 }
 .ProfilePicture{
   height: 300px
