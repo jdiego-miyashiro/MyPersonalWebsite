@@ -1,0 +1,47 @@
+body{
+  margin: 0 0 0 0;
+  font-family: 'Quicksand';
+}
+.header{
+  background-color:  #222831;
+  height: auto;
+  padding-bottom: 10%
+}
+.Hi {
+  padding-top:20%;
+  padding-bottom: 1%;
+  margin:0 0 0 0;
+  text-align: center;
+  color: #ECECEC;
+  font-family: 'Quicksand', serif;
+  font-size: 1000%
+}
+.Introduction{
+  color: #ECECEC;
+  font-family: 'Quicksand', serif;
+  text-align: center;
+  font-size: 200%;
+  margin-top: 0;
+  margin-left: 20%;
+  margin-right:20%;
+}
+.AboutMe{
+  height:1000px
+}
+.Level1SubHeader{
+  text-align: center;
+  color: #30475e;
+  font-family: 'Quicksand';
+  font-size: 400%;
+  margin-top: 5%;
+}
+.ProfilePicture{
+  height: 300px
+}
+.Level2SubHeader{
+  text-align: left;
+  color:  #30475e;
+  font-size:300%;
+  margin-top:1%;
+  margin-left:10%;
+}

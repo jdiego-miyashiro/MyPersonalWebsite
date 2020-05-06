@@ -1,0 +1,25 @@
+body{
+  margin: 0 0 0 0
+
+}
+.header{
+  background-image: url(Images/AnalogueClock.jpg);
+  object-fit: contain;
+  height: auto;
+}
+.salutations {
+  padding-top: 60px;
+  margin-top:0;
+  margin-bottom:0;
+  color: #ECECEC;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+.slogan{
+  padding-top:20px;
+  margin-top:0;
+  margin-bottom:0;
+  color: #ECECEC;
+  font-family: 'Josefin Sans', cursive;
+  text-align: center;
+}
